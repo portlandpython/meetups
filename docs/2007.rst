@@ -1,0 +1,41 @@
+2007
+====
+
+December
+--------
+
+
+November
+--------
+
+
+October
+-------
+
+
+September
+---------
+
+
+August
+------
+
+
+July
+----
+
+* Intro to debugging with PDB
+* Web automation with mechanize
+* A Python frontend for a microcontroller
+* SQLAlchemy in 5 (ok, 20) minutes slides, video
+
+June
+----
+
+* Social
+
+May
+---
+
+* Group born on the 8th
+* Planning meeting on the 11th.
